@@ -9,8 +9,13 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.demo.dao.registery.RegisteryDAO;
 
+/**
+ * @author abdelaziz
+ *
+ */
 @Controller
 public class AjaxController {
+	
 
 	@ResponseBody
 	@RequestMapping(value="/deleteProduct",method=RequestMethod.POST)
