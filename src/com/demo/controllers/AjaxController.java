@@ -12,7 +12,9 @@ import com.demo.dao.registery.RegisteryDAO;
 /**
  * @author abdelaziz
  *Repository has changed
+ *This should be seen in the clone side
  *Another change
+ *Change found out of Git
  */
 
 @Controller
